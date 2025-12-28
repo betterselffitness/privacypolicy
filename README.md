@@ -1,70 +1,101 @@
-**Privacy Policy**
+# Privacy Policy
 
-This privacy policy applies to the wd app (hereby referred to as "Application") for mobile devices that was created by good fit ai developer (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+**Effective Date:** 2025-12-28
 
-**Information Collection and Use**
+## Introduction
 
-The Application collects information when you download and use it. This information may include information such as
+This Privacy Policy explains how BetterSelf.fitness ("we," "us," or "our")
+collects, uses, and discloses information about you when you use our mobile
+application (the "App"). By using the App, you consent to the processing of your
+information as described in this policy.
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+## Information We Collect
 
-The Application does not gather precise information about the location of your mobile device.
+We collect information to provide, improve, and personalize our services. This
+includes:
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+### 1. Information You Provide to Us
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+- **Account Information:** When you create an account, we collect your email
+  address and may ask for a name or username.
+- **Health and Fitness Data:** We collect the health and fitness data you input,
+  such as exercise logs, physical measurements (e.g., weight, height), sleep
+  schedules, and dietary information.
+- **User Preferences:** We store your settings and preferences to customize your
+  experience.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+### 2. Information Collected Automatically
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to email, userid. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+- **Usage Data:** We may collect information about how you use the App, such as
+  the features you use and the time spent on the App.
+- **Device Information:** We may collect information about your mobile device,
+  including the device model, operating system version, and unique device
+  identifiers, to ensure compatibility and troubleshoot issues.
 
-**Third Party Access**
+## How We Use Your Information
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+We use the collected information for the following purposes:
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+- **App Functionality:** To create and manage your account, track your fitness
+  progress, and provide the core features of the App.
+- **Personalization:** To tailor the App experience to your preferences and
+  goals.
+- **Improvement:** To analyze usage trends and improve the App's performance and
+  design.
+- **Communication:** To send you important updates, security alerts, and support
+  messages.
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+## Data Sharing and Disclosure
 
-**Opt-Out Rights**
+We respect your privacy and do not sell your personal data. We may share your
+information in the following limited circumstances:
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+- **Service Providers:** We may engage trusted third-party service providers to
+  perform functions on our behalf, such as data hosting and analytics. These
+  providers have access to personal information only as needed to perform their
+  functions and are obligated to maintain the confidentiality and security of
+  your data.
+- **Legal Requirements:** We may disclose your information if required to do so
+  by law or in the good faith belief that such action is necessary to comply
+  with legal obligations, protect our rights, or ensure the safety of our users.
 
-**Data Retention Policy**
+## Data Retention
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at betterself.fitness.contact@gmail.com and they will respond in a reasonable time.
+We retain your personal information for as long as your account is active or as
+needed to provide you with the App's services. We will also retain and use your
+information as necessary to comply with our legal obligations, resolve disputes,
+and enforce our agreements.
 
-**Children**
+## Data Security
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+We take reasonable measures to help protect information about you from loss,
+theft, misuse, and unauthorized access, disclosure, alteration, and destruction.
+However, no internet or electronic storage system is completely secure, and we
+cannot guarantee absolute security.
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (betterself.fitness.contact@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+## Your Rights and Choices
 
-**Security**
+- **Access and Update:** You can access and update your profile information
+  directly within the App settings.
+- **Delete Account:** You have the right to delete your account and associated
+  data. Please refer to our "Delete Account Instructions" or use the deletion
+  option provided within the App's settings.
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+## Children's Privacy
 
-**Changes**
+Our App is not intended for individuals under the age of 13. We do not knowingly
+collect personal information from children under 13. If we become aware that we
+have collected personal information from a child under 13, we will take steps to
+delete such information.
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+## Changes to This Privacy Policy
 
-This privacy policy is effective as of 2025-12-27
+We may update this Privacy Policy from time to time. We will notify you of any
+changes by posting the new Privacy Policy on this page and updating the
+"Effective Date" at the top. You are advised to review this Privacy Policy
+periodically for any changes.
 
-**Your Consent**
+## Contact Us
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
-
-**Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at betterself.fitness.contact@gmail.com.
-
-* * *
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+If you have any questions about this Privacy Policy, please contact us at:
+**Email:** betterself.fitness.contact@gmail.com
